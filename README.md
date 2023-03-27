@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onemanzerg&show_icons=true&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onemanzerg&theme=aura) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=onemanzerg&theme=aura) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=onemanzerg&theme=aura&utcOffset=8) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=onemanzerg&theme=aura) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=onemanzerg&theme=aura) 

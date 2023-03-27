@@ -1,4 +1,4 @@
-<center>### Hi there 👋 I'm Aleksandr</center>
+<h1><center>Hi there 👋 I'm Aleksandr</center></h1>
 
 <!--
 **onemanzerg/onemanzerg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

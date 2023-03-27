@@ -1,5 +1,4 @@
-<h1> align="center">Hi there 👋 I'm Aleksandr</center></h1>
-<h2 align="center">Hi there, 👋 I'm Aleksandr</h2>
+<h2 align="center">Hi there 👋 I'm Aleksandr</h2>
 
 <!--
 **onemanzerg/onemanzerg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onemanzerg&show_icons=true&theme=codeSTACKr)
-
-
-![My's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={onemanzerg}&theme={dracula})
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onemanzerg&show_icons=true&theme=aura)

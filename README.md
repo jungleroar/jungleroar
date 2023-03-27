@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onemanzerg&show_icons=true&theme=codeSTACKr)
+
+
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={onemanzerg}&theme={dracula}

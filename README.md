@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 
 <h2>Stats:</h2>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onemanzerg&theme=aura) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jungleroar&theme=aura) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=onemanzerg&theme=aura) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=onemanzerg&theme=aura&utcOffset=8) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jungleroar&theme=aura) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jungleroar&theme=aura&utcOffset=8) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=onemanzerg&theme=aura) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=onemanzerg&theme=aura) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jungleroar&theme=aura) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jungleroar&theme=aura) 
